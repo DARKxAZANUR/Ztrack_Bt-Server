@@ -15,10 +15,10 @@ function loadVideos() {
     
     // GitHub se demo video links
     const videoFiles = [
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/demo_video1.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/demo_video2.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/demo_video3.mp4'
-    ];
+    'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/demo_video1.mp4',
+    'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/demo_video2.mp4',
+    'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/demo_video3.mp4'
+];
 
     videoFiles.forEach((videoPath, index) => {
         const videoItem = document.createElement('div');
@@ -73,7 +73,7 @@ function setupTelegramLinks() {
     document.querySelectorAll('.download-btn').forEach(btn => {
         btn.addEventListener('click', function(e) {
             e.preventDefault();
-            window.open('https://t.me/kalajadusetup', '_blank');
+            window.open('https://t.me/+pUjdPbP6RjdmNGY1', '_blank');
         });
     });
     
@@ -81,14 +81,14 @@ function setupTelegramLinks() {
     document.addEventListener('click', function(e) {
         if (e.target.closest('.video-telegram-btn')) {
             e.preventDefault();
-            window.open('https://t.me/kalajadusetup', '_blank');
+            window.open('https://t.me/ZtraxLoaderSetup', '_blank');
         }
     });
     
     // Features pe bhi Telegram link
     document.querySelectorAll('.feature-item').forEach(item => {
         item.addEventListener('click', function() {
-            window.open('https://t.me/kalajadusetup', '_blank');
+            window.open('https://whatsapp.com/channel/0029VbAov1zFHWpubqZwSx3j', '_blank');
         });
     });
 }
@@ -237,3 +237,4 @@ document.querySelectorAll('.feature-item').forEach(item => {
         alert(`🔧 ${featureName} - Redirecting to Telegram...`);
     });
 });
+    
