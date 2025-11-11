@@ -11,21 +11,21 @@ function loadFeedbackImages() {
     
     // 15 Photo links
     const feedbackLinks = [
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image1.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image2.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image3.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image4.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image5.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image6.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image7.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image8.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image9.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image10.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image11.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image12.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image13.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image14.jpg',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-image15.jpg'
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image1.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image2.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image3.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image4.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image5.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image6.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image7.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image8.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image9.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image10.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image11.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image12.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image13.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image14.jpg',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-image15.jpg'
     ];
     
     // Saari 15 photos load karo
@@ -51,16 +51,16 @@ function loadFeedbackVideos() {
     
     // 10 Video links
     const videoLinks = [
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video1.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video2.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video3.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video4.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video5.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video6.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video7.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video8.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video9.mp4',
-        'https://raw.githubusercontent.com/DARKxAZANUR/azan-feedback-web/main/feedback-video10.mp4'
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video1.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video2.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video3.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video4.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video5.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video6.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video7.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video8.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video9.mp4',
+        'https://raw.githubusercontent.com/DARKxAZANUR/Ztrack_Bt-Server/main/feedback-video10.mp4'
     ];
     
     // Saari 10 videos load karo
