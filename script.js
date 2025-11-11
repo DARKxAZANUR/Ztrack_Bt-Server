@@ -212,7 +212,7 @@ const translations = {
 // WhatsApp Order Function
 function orderOnWhatsApp(productName, price) {
     // Tumhara WhatsApp link
-    const whatsappLink = 'https://spoo.me/bWsDRx';
+    const whatsappLink = 'https://whatsapp.com/channel/0029VbAov1zFHWpubqZwSx3j';
     
     // Random order ID generate karo
     const orderId = 'ORD' + Math.random().toString(36).substr(2, 9).toUpperCase();
@@ -237,4 +237,3 @@ document.querySelectorAll('.feature-item').forEach(item => {
         alert(`🔧 ${featureName} - Redirecting to Telegram...`);
     });
 });
-    
